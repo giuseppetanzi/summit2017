@@ -239,7 +239,7 @@
           "type": "sine", "period": 30000, "offset": 1200, "amplitude": 600
         },
         "temp": {
-          "type": "sine", "period": 60000, "shift": 100, "offset": 190, "amplitude": 40
+          "type": "sine", "period": 60000, "shift": 100, "offset": 250, "amplitude": 40
         },
         "oilpress": {
           "type": "sine", "period": 30000, "shift": 400, "offset": 50, "amplitude": 20
